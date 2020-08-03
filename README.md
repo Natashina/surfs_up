@@ -20,7 +20,7 @@ Ther must be a way to get this missing data.
  Therefore, June is much warmer month in comparison with December.
  
 3. The potemtial investor into a surf shop had some conserns about the rainy weather. 
- 
+ It looks like December is pretty rainy month. 
  
 4. According to lushpalm.com most of the good surf locations are in the North shore of Oahu, while most of the surf shops are in Honolulu.
 
