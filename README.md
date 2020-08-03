@@ -19,9 +19,9 @@ Ther must be a way to get this missing data.
  Minimum temperature in June is 64, while in December is 56. Maximum temperature is 85 in June and 83 in December.
  Therefore, June is much warmer month in comparison with December.
  
-3. The potemtial investor in a surf shop had some conserns about the rainy weather. 
+3. The potential investor in a surf shop had some conserns about the rainy weather. 
 
-Based on key statistical data in terms of precipitaion, it seems that December is pretty rainy month. The maximum amount of rain is 6.5 inch, while 6.7 inch was maximum for the entire year.
+Based on key statistical data in terms of precipitaion, it seems that December is pretty rainy month. The maximum amount of rain in December is 6.4 inch, while 6.7 inch was maximum for the entire year (see climate_analysis.ipynb for reference).
  
 4. According to lushpalm.com most of the good surf locations are in the North shore of Oahu, while most of the surf shops are in Honolulu.
 
