@@ -5,7 +5,7 @@ It is important to take into account that the dataset contains period from Janua
 
 | June                | December            |
 | ------------------  | ------------------  |
-| ![Image1](June.png) |![Image2](Dec.png)   |
+| ![Image1](June.PNG) |![Image2](Dec.PNG)   |
 | Content Cell        | Content Cell        |
 
 
