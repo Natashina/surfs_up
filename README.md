@@ -21,8 +21,9 @@ Ther must be a way to get this missing data.
  
 3. The potential investor in a surf shop had some conserns about the rainy weather. 
 
-Based on key statistical data in terms of precipitaion, it seems that December is pretty rainy month. The maximum amount of rain in December is 6.4 inches, while 6.7 inches is the maximum for the entire year (see climate_analysis.ipynb for reference). The average in December is 0.22 inch while in June it is 0.14.
+Based on key statistical data in terms of precipitaion, it seems that December is pretty rainy month. The maximum amount of rain in December is 6.4 inches, while 6.7 inches is the maximum for the entire year (see climate_analysis.ipynb for reference). The average in December is 0.22 inch while in June it is 0.14 and for the entire year is 0.18. 
+December weather brings more than average amount of rain for a year.
  
 4. According to lushpalm.com most of the good surf locations are in the North shore of Oahu, while most of the surf shops are in Honolulu.
-
+For futher analysis we need to determine where the stations are located and which are more close to the surf shop.
 5. 
