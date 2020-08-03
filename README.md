@@ -6,7 +6,7 @@ It is important to take into account that the dataset contains period from Janua
 | June                | December            |
 | ------------------  | ------------------  |
 | ![Image1](June.PNG) |![Image2](Dec.PNG)   |
-| Content Cell        | Content Cell        |
+|                     |                     |
 
 
 According to lushpalm.com most of the good surf locations are in the North shore of Oahu, while most of the surf shops are in Honolulu.
